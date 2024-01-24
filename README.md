@@ -1,4 +1,5 @@
 # Pandas Tutorial - Hands-on Data Analysis with Python
+<img src="pandas.jpeg">
 Welcome to the Pandas Tutorial Jupyter Notebook! 🐼📊
 
 This comprehensive tutorial is designed to help you master the fundamentals of data analysis using the powerful Pandas library in Python.
